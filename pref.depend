@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1671784165 source:f:\me\programming\c++\cblocks.matkul\tubes stack queue\tubes_kalkulator_prefix\pref\main.cpp
+	"pref.h"
+
+1671782719 f:\me\programming\c++\cblocks.matkul\tubes stack queue\tubes_kalkulator_prefix\pref\pref.h
+	<bits/stdc++.h>
+	<string>
+	<stdio.h>
+
+1671784028 source:f:\me\programming\c++\cblocks.matkul\tubes stack queue\tubes_kalkulator_prefix\pref\pref.cpp
+	"pref.h"
+
+1673002742 source:g:\kuliah\materi kuliah\semester 3\struktur data\praktikum\tubes\tubes_kalkulator_prefix[1]\tubes_kalkulator_prefix\pref\main.cpp
+	"pref.h"
+
+1673002683 g:\kuliah\materi kuliah\semester 3\struktur data\praktikum\tubes\tubes_kalkulator_prefix[1]\tubes_kalkulator_prefix\pref\pref.h
+	<math.h>
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<cctype>
+
+1673005428 source:g:\kuliah\materi kuliah\semester 3\struktur data\praktikum\tubes\tubes_kalkulator_prefix[1]\tubes_kalkulator_prefix\pref\pref.cpp
+	"pref.h"
+
+1673238339 source:g:\kuliah\materi kuliah\semester 3\struktur data\praktikum\tubes\std_1303210006_1303210039\tubes_kalkulator_prefix\pref\main.cpp
+	"pref.h"
+
+1673237693 g:\kuliah\materi kuliah\semester 3\struktur data\praktikum\tubes\std_1303210006_1303210039\tubes_kalkulator_prefix\pref\pref.h
+	<math.h>
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+
+1673237693 source:g:\kuliah\materi kuliah\semester 3\struktur data\praktikum\tubes\std_1303210006_1303210039\tubes_kalkulator_prefix\pref\pref.cpp
+	"pref.h"
+
